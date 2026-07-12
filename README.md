@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0058-length-of-last-word) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
