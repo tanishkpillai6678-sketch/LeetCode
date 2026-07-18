@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0268-missing-number) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -51,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
