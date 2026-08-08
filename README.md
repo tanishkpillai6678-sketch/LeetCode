@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
