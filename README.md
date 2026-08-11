@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0058-length-of-last-word) |
+| [0567-permutation-in-string](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0054-spiral-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
