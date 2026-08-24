@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -61,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0414-third-maximum-number) |
