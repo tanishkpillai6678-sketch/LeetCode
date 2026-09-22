@@ -100,4 +100,12 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0567-permutation-in-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
