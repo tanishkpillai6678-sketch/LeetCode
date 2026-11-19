@@ -40,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
@@ -79,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
@@ -113,5 +115,10 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
