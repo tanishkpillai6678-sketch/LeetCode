@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tanishkpillai6678-sketch/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
